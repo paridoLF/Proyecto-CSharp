@@ -1,0 +1,47 @@
+c:\users\ldelgado\documents\visual studio 2013\Projects\Proyecto-Curso\Proyecto-Curso\bin\Debug\Proyecto-Curso.exe.config
+c:\users\ldelgado\documents\visual studio 2013\Projects\Proyecto-Curso\Proyecto-Curso\obj\Debug\Proyecto-Curso.csprojResolveAssemblyReference.cache
+c:\users\ldelgado\documents\visual studio 2013\Projects\Proyecto-Curso\Proyecto-Curso\obj\Debug\Proyecto_Curso.Form1.resources
+c:\users\ldelgado\documents\visual studio 2013\Projects\Proyecto-Curso\Proyecto-Curso\obj\Debug\Proyecto_Curso.Properties.Resources.resources
+c:\users\ldelgado\documents\visual studio 2013\Projects\Proyecto-Curso\Proyecto-Curso\obj\Debug\Proyecto-Curso.csproj.GenerateResource.Cache
+c:\users\ldelgado\documents\visual studio 2013\Projects\Proyecto-Curso\Proyecto-Curso\bin\Debug\Proyecto-Curso.exe
+c:\users\ldelgado\documents\visual studio 2013\Projects\Proyecto-Curso\Proyecto-Curso\bin\Debug\Proyecto-Curso.pdb
+c:\users\ldelgado\documents\visual studio 2013\Projects\Proyecto-Curso\Proyecto-Curso\obj\Debug\Proyecto-Curso.exe
+c:\users\ldelgado\documents\visual studio 2013\Projects\Proyecto-Curso\Proyecto-Curso\obj\Debug\Proyecto-Curso.pdb
+C:\Users\Admin\Desktop\Proyecto-Curso\Proyecto-Curso\bin\Debug\Proyecto-Curso.exe.config
+C:\Users\Admin\Desktop\Proyecto-Curso\Proyecto-Curso\obj\Debug\Proyecto-Curso.exe
+C:\Users\Admin\Desktop\Proyecto-Curso\Proyecto-Curso\obj\Debug\Proyecto-Curso.pdb
+C:\Users\Admin\Desktop\Proyecto-Curso\Proyecto-Curso\obj\Debug\Proyecto-Curso.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Proyecto-Curso\Proyecto-Curso\obj\Debug\Proyecto_Curso.Form1.resources
+C:\Users\Admin\Desktop\Proyecto-Curso\Proyecto-Curso\obj\Debug\Proyecto_Curso.Properties.Resources.resources
+C:\Users\Admin\Desktop\Proyecto-Curso\Proyecto-Curso\obj\Debug\Proyecto-Curso.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\Proyecto-Curso\Proyecto-Curso\bin\Debug\Proyecto-Curso.exe
+C:\Users\Admin\Desktop\Proyecto-Curso\Proyecto-Curso\bin\Debug\Proyecto-Curso.pdb
+C:\Users\ldelgado\Desktop\Proyecto-Curso\Proyecto-Curso\obj\Debug\Proyecto-Curso.csprojResolveAssemblyReference.cache
+C:\Users\ldelgado\Desktop\Proyecto-Curso\Proyecto-Curso\obj\Debug\Proyecto_Curso.Form1.resources
+C:\Users\ldelgado\Desktop\Proyecto-Curso\Proyecto-Curso\obj\Debug\Proyecto_Curso.Properties.Resources.resources
+C:\Users\ldelgado\Desktop\Proyecto-Curso\Proyecto-Curso\obj\Debug\Proyecto-Curso.csproj.GenerateResource.Cache
+C:\Users\ldelgado\Desktop\Proyecto-Curso\Proyecto-Curso\obj\Debug\Proyecto-Curso.exe
+C:\Users\ldelgado\Desktop\Proyecto-Curso\Proyecto-Curso\bin\Debug\Proyecto-Curso.exe.config
+C:\Users\ldelgado\Desktop\Proyecto-Curso\Proyecto-Curso\bin\Debug\Proyecto-Curso.exe
+C:\Users\ldelgado\Desktop\Proyecto-Curso\Proyecto-Curso\bin\Debug\Proyecto-Curso.pdb
+C:\Users\ldelgado\Desktop\Proyecto-Curso\Proyecto-Curso\obj\Debug\Proyecto-Curso.pdb
+E:\Proyecto-Curso\Proyecto-Curso\bin\Debug\Proyecto-Curso.exe.config
+E:\Proyecto-Curso\Proyecto-Curso\obj\Debug\Proyecto-Curso.exe
+E:\Proyecto-Curso\Proyecto-Curso\obj\Debug\Proyecto-Curso.pdb
+E:\Proyecto-Curso\Proyecto-Curso\obj\Debug\Proyecto-Curso.csprojResolveAssemblyReference.cache
+E:\Proyecto-Curso\Proyecto-Curso\obj\Debug\Proyecto_Curso.Form1.resources
+E:\Proyecto-Curso\Proyecto-Curso\obj\Debug\Proyecto_Curso.Properties.Resources.resources
+E:\Proyecto-Curso\Proyecto-Curso\obj\Debug\Proyecto-Curso.csproj.GenerateResource.Cache
+E:\Proyecto-Curso\Proyecto-Curso\bin\Debug\Proyecto-Curso.exe
+E:\Proyecto-Curso\Proyecto-Curso\bin\Debug\Proyecto-Curso.pdb
+F:\Proyecto-Curso\Proyecto-Curso\bin\Debug\Proyecto-Curso.exe.config
+F:\Proyecto-Curso\Proyecto-Curso\obj\Debug\Proyecto-Curso.exe
+F:\Proyecto-Curso\Proyecto-Curso\obj\Debug\Proyecto-Curso.pdb
+F:\Proyecto-Curso\Proyecto-Curso\obj\Debug\Proyecto-Curso.csprojResolveAssemblyReference.cache
+F:\Proyecto-Curso\Proyecto-Curso\obj\Debug\Proyecto_Curso.Form1.resources
+F:\Proyecto-Curso\Proyecto-Curso\obj\Debug\Proyecto_Curso.Properties.Resources.resources
+F:\Proyecto-Curso\Proyecto-Curso\obj\Debug\Proyecto-Curso.csproj.GenerateResource.Cache
+F:\Proyecto-Curso\Proyecto-Curso\bin\Debug\Proyecto-Curso.exe
+F:\Proyecto-Curso\Proyecto-Curso\bin\Debug\Proyecto-Curso.pdb
+F:\Proyecto-Curso\Proyecto-Curso\bin\Debug\EntityFramework.dll
+F:\Proyecto-Curso\Proyecto-Curso\bin\Debug\EntityFramework.xml

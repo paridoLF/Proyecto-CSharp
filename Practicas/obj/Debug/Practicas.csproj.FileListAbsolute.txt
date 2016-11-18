@@ -1,0 +1,15 @@
+c:\users\ldelgado\documents\visual studio 2013\Projects\Proyecto-Curso\Practicas\bin\Debug\Practicas.exe.config
+c:\users\ldelgado\documents\visual studio 2013\Projects\Proyecto-Curso\Practicas\bin\Debug\Practicas.exe
+c:\users\ldelgado\documents\visual studio 2013\Projects\Proyecto-Curso\Practicas\bin\Debug\Practicas.pdb
+c:\users\ldelgado\documents\visual studio 2013\Projects\Proyecto-Curso\Practicas\obj\Debug\Practicas.csprojResolveAssemblyReference.cache
+c:\users\ldelgado\documents\visual studio 2013\Projects\Proyecto-Curso\Practicas\obj\Debug\Practicas.Form1.resources
+c:\users\ldelgado\documents\visual studio 2013\Projects\Proyecto-Curso\Practicas\obj\Debug\Practicas.Properties.Resources.resources
+c:\users\ldelgado\documents\visual studio 2013\Projects\Proyecto-Curso\Practicas\obj\Debug\Practicas.csproj.GenerateResource.Cache
+c:\users\ldelgado\documents\visual studio 2013\Projects\Proyecto-Curso\Practicas\obj\Debug\Practicas.exe
+c:\users\ldelgado\documents\visual studio 2013\Projects\Proyecto-Curso\Practicas\obj\Debug\Practicas.pdb
+C:\Users\Admin\Desktop\Proyecto-Curso\Practicas\bin\Debug\Practicas.exe.config
+C:\Users\Admin\Desktop\Proyecto-Curso\Practicas\obj\Debug\Practicas.exe
+C:\Users\Admin\Desktop\Proyecto-Curso\Practicas\obj\Debug\Practicas.pdb
+C:\Users\ldelgado\Desktop\Proyecto-Curso\Practicas\bin\Debug\Practicas.exe.config
+C:\Users\ldelgado\Desktop\Proyecto-Curso\Practicas\obj\Debug\Practicas.exe
+C:\Users\ldelgado\Desktop\Proyecto-Curso\Practicas\obj\Debug\Practicas.pdb

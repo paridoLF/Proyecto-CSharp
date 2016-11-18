@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Configuraciones>
+     <Configuracion>
+          <Nombre>Principiante</Nombre>
+          <NumFila>8</NumFila>
+          <NumColumna>8</NumColumna>
+          <NumMinas>10</NumMinas>
+     </Configuracion>
+     <Configuracion>
+          <Nombre>Intermedio</Nombre>
+          <NumFila>10</NumFila>
+          <NumColumna>10</NumColumna>
+          <NumMinas>25</NumMinas>
+     </Configuracion>
+     <Configuracion>
+          <Nombre>Avanzado</Nombre>
+          <NumFila>15</NumFila>
+          <NumColumna>15</NumColumna>
+          <NumMinas>120</NumMinas>
+     </Configuracion>
+</Configuraciones>
