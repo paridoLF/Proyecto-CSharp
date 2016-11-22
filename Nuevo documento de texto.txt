@@ -1,0 +1,15 @@
+interfaces (ACCIONES= FUNCIONES)METODOS Icarro
+	q hace 
+	mover
+	detenerce
+	ENCENDER
+
+
+LOS ATRIBUTOS SON PRIVATE
+
+
+atributos
+constructor se llama igual q la clase
+metodos
+
+ctrl + k + d  este comando sirve para acomodar el codigo
